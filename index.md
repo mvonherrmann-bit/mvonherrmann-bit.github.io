@@ -6,7 +6,7 @@
 
 
 [Urban Quality of Life: An Assessment of San Bernardino County
-](pdf/Urban_QOL_12102020_mvh  (3).pdf)
+](pdf/Urban_QOL_12102020_mvh  (2).pdf)
 
 
 
