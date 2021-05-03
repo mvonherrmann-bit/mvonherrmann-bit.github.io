@@ -4,7 +4,7 @@
 
 ### Geospatial Analysis 
 
-[Urban Quality of Life: An Assessment of San Bernardino County![image](https://user-images.githubusercontent.com/70783680/116936397-7d2e5580-ac03-11eb-85a7-10894ea59999.png)
+[Urban Quality of Life: An Assessment of San Bernardino County![image]
 ](/sample_page)
 
 
