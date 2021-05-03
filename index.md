@@ -4,16 +4,12 @@
 
 ### Geospatial Analysis 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Urban Quality of Life: An Assessment of San Bernardino County![image](https://user-images.githubusercontent.com/70783680/116936397-7d2e5580-ac03-11eb-85a7-10894ea59999.png)
+](/sample_page)
+
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
