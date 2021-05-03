@@ -4,7 +4,7 @@
 
 ### Geospatial Analysis 
 
-[Urban Quality of Life: An Assessment of San Bernardino County!
+[Urban Quality of Life: An Assessment of San Bernardino County
 ]
 
 
@@ -15,11 +15,8 @@
 
 ### Software Development 
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[Cuisine 'n COVID19](http://example.com/)
+
 
 ---
 
