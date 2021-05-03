@@ -5,7 +5,7 @@
 ### Geospatial Analysis 
 
 [Urban Quality of Life: An Assessment of San Bernardino County
-]
+](http://example.com/)
 
 
 ---
